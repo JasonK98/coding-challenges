@@ -1,0 +1,14 @@
+{
+  "robots": [
+    {
+      "xPosition": 1,
+      "yPosition": 2,
+      "direction": "N"
+    },
+    {
+      "xPosition": 3,
+      "yPosition": 3,
+      "direction":  "E"
+    }
+  ]
+}

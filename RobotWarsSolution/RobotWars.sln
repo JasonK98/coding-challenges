@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars", "RobotWars\RobotWars.csproj", "{2921B626-DE09-4E92-A902-018E6A3DECC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWarsUnitTest", "RobotWarsUnitTest\RobotWarsUnitTest.csproj", "{9C4B3E76-E456-4B69-975F-1381D093CB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2921B626-DE09-4E92-A902-018E6A3DECC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2921B626-DE09-4E92-A902-018E6A3DECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2921B626-DE09-4E92-A902-018E6A3DECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2921B626-DE09-4E92-A902-018E6A3DECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4B3E76-E456-4B69-975F-1381D093CB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4B3E76-E456-4B69-975F-1381D093CB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4B3E76-E456-4B69-975F-1381D093CB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4B3E76-E456-4B69-975F-1381D093CB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A1E19E-A3B3-4998-9B31-8467BFE933A6}
+	EndGlobalSection
+EndGlobal
